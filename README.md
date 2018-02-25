@@ -1,2 +1,1 @@
-# Awesome wm 
 # Awesome WM
